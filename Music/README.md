@@ -27,6 +27,8 @@
  
 * SwaggerLink 
   * http://16.171.40.158:8080/swagger-ui/index.html#/
+* LinkedIn
+  * https://www.linkedin.com/feed/update/urn:li:activity:7041841734976241664/
 
 
 ### Project Summery
@@ -40,3 +42,8 @@
 * To ensure data security and user data privacy, normal users cannot create or do CRUD operations on songs, and only Admin users have the necessary permissions to perform these actions. This ensures that the API is both secure and user-friendly.
 
 * Overall, this project provides a scalable and secure API for music streaming services that allows users to manage their playlists effectively while ensuring the safety of their data.
+
+### Photos 
+  * Swagger UI :
+    ![image](https://user-images.githubusercontent.com/98683881/225428387-0b0113e3-9ea6-4604-8b5f-e540dd53f639.png)
+
