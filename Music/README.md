@@ -6,18 +6,18 @@
 
 ### Data Flow
 * Controller : 
-  * In this Application am used three 2 controller
+  * In this Application am used 2 controller
     * UserController
     * AdminController
     
 * Service
-  * In this Application am used three 3 Service
+  * In this Application am used 3 Service
     * UserSerivce
     * AdminsService
     * MusicService
    
 * Repository
-  * In this Application am used three 4 Repository
+  * In this Application am used 4 Repository
     * IMusicUserRepository
     * IAdminMusicRepository
     * IUserStatusRepository
