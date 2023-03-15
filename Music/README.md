@@ -45,5 +45,10 @@
 
 ### Photos 
   * Swagger UI :
+    * Admin Controller
     ![image](https://user-images.githubusercontent.com/98683881/225428387-0b0113e3-9ea6-4604-8b5f-e540dd53f639.png)
+    
+    * User Controller
+    ![image](https://user-images.githubusercontent.com/98683881/225428941-28496812-de97-48a7-9e6f-820d425997d5.png)
+
 
